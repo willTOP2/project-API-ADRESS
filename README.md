@@ -1,2 +1,2 @@
 # project-API-ADRESS
-api em node JS 
+api em feita com typescript e node JS 
